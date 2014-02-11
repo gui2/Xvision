@@ -1,0 +1,4 @@
+#! /bin/bash
+for i in {801273..801472} ;do
+qdel $i
+done 

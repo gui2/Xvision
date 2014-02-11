@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+   <FileVersion major="1" minor="6" />
+   <Project>
+      <Option title="TRACKER" />
+      <Option makefile_is_custom="1" />
+      <Option compiler="gcc" />
+      <Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\..\usr\share\;CMake Files\..\..\..\..\..\..\usr\share\cmake-2.8\;CMake Files\..\..\..\..\..\..\usr\share\cmake-2.8\Modules\;CMake Files\..\..\..\..\..\..\usr\share\cmake-2.8\Modules\Platform\;CMake Files\..\..\..\..\..\..\usr\share\cmake-2.8\Modules\Compiler\;CMake Files\..\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\..\usr\local\share\;CMake Files\..\..\..\..\..\..\usr\local\share\OpenCV\;CMake Files\src\;CMake Files\src\3rdparty\;CMake Files\src\3rdparty\cvblobs\;CMake Files\src\3rdparty\libconfig\;CMake Files\src\libopentld\;CMake Files\src\opentld\;" />
+      <Build>
+      <Target title="all">
+         <Option working_dir="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/Makefile&quot; all" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/Makefile&quot; &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/Makefile&quot; clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/Makefile&quot; clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="install">
+         <Option working_dir="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/Makefile&quot; install" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/Makefile&quot; &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/Makefile&quot; clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/Makefile&quot; clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="install/local">
+         <Option working_dir="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/Makefile&quot; install/local" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/Makefile&quot; &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/Makefile&quot; clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/Makefile&quot; clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="install/strip">
+         <Option working_dir="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/Makefile&quot; install/strip" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/Makefile&quot; &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/Makefile&quot; clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/Makefile&quot; clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="list_install_components">
+         <Option working_dir="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/Makefile&quot; list_install_components" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/Makefile&quot; &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/Makefile&quot; clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/Makefile&quot; clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="rebuild_cache">
+         <Option working_dir="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/Makefile&quot; rebuild_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/Makefile&quot; &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/Makefile&quot; clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/Makefile&quot; clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="cvblobs">
+         <Option output="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/lib/libcvblobs.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/3rdparty/cvblobs" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/local/include/opencv" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/3rdparty/cvblobs/Makefile&quot; cvblobs" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/3rdparty/cvblobs/Makefile&quot; &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/3rdparty/cvblobs/Makefile&quot; clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/3rdparty/cvblobs/Makefile&quot; clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="cvblobs/fast">
+         <Option output="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/lib/libcvblobs.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/3rdparty/cvblobs" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/local/include/opencv" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/3rdparty/cvblobs/Makefile&quot; cvblobs/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/3rdparty/cvblobs/Makefile&quot; &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/3rdparty/cvblobs/Makefile&quot; clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/3rdparty/cvblobs/Makefile&quot; clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="config++">
+         <Option output="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/lib/libconfig++.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/3rdparty/libconfig" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/local/include/opencv" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/3rdparty/libconfig/Makefile&quot; config++" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/3rdparty/libconfig/Makefile&quot; &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/3rdparty/libconfig/Makefile&quot; clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/3rdparty/libconfig/Makefile&quot; clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="config++/fast">
+         <Option output="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/lib/libconfig++.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/3rdparty/libconfig" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/local/include/opencv" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/3rdparty/libconfig/Makefile&quot; config++/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/3rdparty/libconfig/Makefile&quot; &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/3rdparty/libconfig/Makefile&quot; clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/3rdparty/libconfig/Makefile&quot; clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="libopentld">
+         <Option output="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/lib/libopentld.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/libopentld" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/local/include/opencv" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/libopentld/imacq" />
+            <Add directory="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/libopentld/mftracker" />
+            <Add directory="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/libopentld/tld" />
+            <Add directory="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/libopentld/../3rdparty/cvblobs" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/libopentld/Makefile&quot; libopentld" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/libopentld/Makefile&quot; &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/libopentld/Makefile&quot; clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/libopentld/Makefile&quot; clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="libopentld/fast">
+         <Option output="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/lib/libopentld.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/libopentld" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/local/include/opencv" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/libopentld/imacq" />
+            <Add directory="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/libopentld/mftracker" />
+            <Add directory="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/libopentld/tld" />
+            <Add directory="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/libopentld/../3rdparty/cvblobs" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/libopentld/Makefile&quot; libopentld/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/libopentld/Makefile&quot; &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/libopentld/Makefile&quot; clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/libopentld/Makefile&quot; clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="main">
+         <Option output="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/lib/libmain.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/opentld" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/local/include/opencv" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/opentld/main" />
+            <Add directory="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/opentld/../libopentld/imacq" />
+            <Add directory="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/opentld/../libopentld/mftracker" />
+            <Add directory="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/opentld/../libopentld/tld" />
+            <Add directory="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/opentld/../3rdparty/cvblobs" />
+            <Add directory="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/opentld/../3rdparty/libconfig" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/opentld/Makefile&quot; main" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/opentld/Makefile&quot; &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/opentld/Makefile&quot; clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/opentld/Makefile&quot; clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="main/fast">
+         <Option output="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/lib/libmain.a" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/opentld" />
+         <Option object_output="./" />
+         <Option type="2" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/local/include/opencv" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/opentld/main" />
+            <Add directory="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/opentld/../libopentld/imacq" />
+            <Add directory="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/opentld/../libopentld/mftracker" />
+            <Add directory="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/opentld/../libopentld/tld" />
+            <Add directory="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/opentld/../3rdparty/cvblobs" />
+            <Add directory="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/opentld/../3rdparty/libconfig" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/opentld/Makefile&quot; main/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/opentld/Makefile&quot; &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/opentld/Makefile&quot; clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/opentld/Makefile&quot; clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="opentld">
+         <Option output="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/bin/opentld" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/bin" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/local/include/opencv" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/opentld/main" />
+            <Add directory="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/opentld/../libopentld/imacq" />
+            <Add directory="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/opentld/../libopentld/mftracker" />
+            <Add directory="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/opentld/../libopentld/tld" />
+            <Add directory="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/opentld/../3rdparty/cvblobs" />
+            <Add directory="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/opentld/../3rdparty/libconfig" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/opentld/Makefile&quot; opentld" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/opentld/Makefile&quot; &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/opentld/Makefile&quot; clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/opentld/Makefile&quot; clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="opentld/fast">
+         <Option output="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/bin/opentld" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/bin" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/local/include/opencv" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/opentld/main" />
+            <Add directory="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/opentld/../libopentld/imacq" />
+            <Add directory="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/opentld/../libopentld/mftracker" />
+            <Add directory="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/opentld/../libopentld/tld" />
+            <Add directory="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/opentld/../3rdparty/cvblobs" />
+            <Add directory="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/opentld/../3rdparty/libconfig" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/opentld/Makefile&quot; opentld/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/opentld/Makefile&quot; &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/opentld/Makefile&quot; clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/opentld/Makefile&quot; clean" />
+         </MakeCommands>
+      </Target>
+      </Build>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/3rdparty/cvblobs/BlobContour.cpp">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/3rdparty/cvblobs/BlobOperators.cpp">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/3rdparty/cvblobs/BlobProperties.cpp">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/3rdparty/cvblobs/BlobResult.cpp">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/3rdparty/cvblobs/ComponentLabeling.cpp">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/3rdparty/cvblobs/blob.cpp">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/3rdparty/libconfig/grammar.c">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/3rdparty/libconfig/libconfig.c">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/3rdparty/libconfig/libconfigcpp.cc">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/3rdparty/libconfig/scanctx.c">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/3rdparty/libconfig/scanner.c">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/3rdparty/libconfig/strbuf.c">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/libopentld/imacq/ImAcq.cpp">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/libopentld/mftracker/BB.cpp">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/libopentld/mftracker/BBPredict.cpp">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/libopentld/mftracker/FBTrack.cpp">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/libopentld/mftracker/Lk.cpp">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/libopentld/mftracker/Median.cpp">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/libopentld/tld/Clustering.cpp">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/libopentld/tld/DetectionResult.cpp">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/libopentld/tld/DetectorCascade.cpp">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/libopentld/tld/EnsembleClassifier.cpp">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/libopentld/tld/ForegroundDetector.cpp">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/libopentld/tld/MedianFlowTracker.cpp">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/libopentld/tld/NNClassifier.cpp">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/libopentld/tld/TLD.cpp">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/libopentld/tld/TLDUtil.cpp">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/libopentld/tld/VarianceFilter.cpp">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/opentld/OpenTLD.cpp">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/opentld/main/Config.cpp">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/opentld/main/Gui.cpp">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/opentld/main/Main.cpp">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/opentld/main/Settings.cpp">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/opentld/main/Trajectory.cpp">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/3rdparty/cvblobs/BlobContour.h">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/3rdparty/cvblobs/BlobLibraryConfiguration.h">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/3rdparty/cvblobs/BlobOperators.h">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/3rdparty/cvblobs/BlobProperties.h">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/3rdparty/cvblobs/BlobResult.h">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/3rdparty/cvblobs/ComponentLabeling.h">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/3rdparty/cvblobs/blob.h">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/3rdparty/libconfig/grammar.h">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/3rdparty/libconfig/libconfig.h">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/3rdparty/libconfig/libconfig.hh">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/3rdparty/libconfig/parsectx.h">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/3rdparty/libconfig/scanctx.h">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/3rdparty/libconfig/scanner.h">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/3rdparty/libconfig/strbuf.h">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/3rdparty/libconfig/wincompat.h">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/libopentld/imacq/ImAcq.h">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/libopentld/mftracker/BB.h">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/libopentld/mftracker/BBPredict.h">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/libopentld/mftracker/FBTrack.h">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/libopentld/mftracker/Lk.h">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/libopentld/mftracker/Median.h">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/libopentld/tld/Clustering.h">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/libopentld/tld/DetectionResult.h">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/libopentld/tld/DetectorCascade.h">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/libopentld/tld/EnsembleClassifier.h">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/libopentld/tld/ForegroundDetector.h">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/libopentld/tld/IntegralImage.h">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/libopentld/tld/MedianFlowTracker.h">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/libopentld/tld/NNClassifier.h">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/libopentld/tld/NormalizedPatch.h">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/libopentld/tld/TLD.h">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/libopentld/tld/TLDUtil.h">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/libopentld/tld/VarianceFilter.h">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/opentld/main/Config.h">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/opentld/main/Gui.h">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/opentld/main/Main.h">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/opentld/main/Settings.h">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/opentld/main/Trajectory.h">
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/OpenTLDConfig.cmake.in">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/../../../../../../usr/share/cmake-2.8/Modules/CMakeSystemSpecificInformation.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\share\cmake-2.8\Modules\" />
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/../../../../../../usr/share/cmake-2.8/Modules/CMakeGenericSystem.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\share\cmake-2.8\Modules\" />
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/../../../../../../usr/share/cmake-2.8/Modules/CMakeCInformation.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\share\cmake-2.8\Modules\" />
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/../../../../../../usr/share/cmake-2.8/Modules/CMakeCommonLanguageInclude.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\share\cmake-2.8\Modules\" />
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/../../../../../../usr/share/cmake-2.8/Modules/CMakeCXXInformation.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\share\cmake-2.8\Modules\" />
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/../../../../../../usr/share/cmake-2.8/Modules/CMakeCommonLanguageInclude.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\share\cmake-2.8\Modules\" />
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/../../../../../../usr/share/cmake-2.8/Modules/Platform/Linux.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\share\cmake-2.8\Modules\Platform\" />
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/../../../../../../usr/share/cmake-2.8/Modules/Platform/UnixPaths.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\share\cmake-2.8\Modules\Platform\" />
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/../../../../../../usr/share/cmake-2.8/Modules/Platform/Linux-GNU-C.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\share\cmake-2.8\Modules\Platform\" />
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/../../../../../../usr/share/cmake-2.8/Modules/Platform/Linux-GNU.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\share\cmake-2.8\Modules\Platform\" />
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/../../../../../../usr/share/cmake-2.8/Modules/Platform/Linux-GNU-CXX.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\share\cmake-2.8\Modules\Platform\" />
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/../../../../../../usr/share/cmake-2.8/Modules/Platform/Linux-GNU.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\share\cmake-2.8\Modules\Platform\" />
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/../../../../../../usr/share/cmake-2.8/Modules/Compiler/GNU-C.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\share\cmake-2.8\Modules\Compiler\" />
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/../../../../../../usr/share/cmake-2.8/Modules/Compiler/GNU.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\share\cmake-2.8\Modules\Compiler\" />
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/../../../../../../usr/share/cmake-2.8/Modules/Compiler/GNU-CXX.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\share\cmake-2.8\Modules\Compiler\" />
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/../../../../../../usr/share/cmake-2.8/Modules/Compiler/GNU.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\share\cmake-2.8\Modules\Compiler\" />
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/../../../../../../usr/local/share/OpenCV/OpenCVConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\share\OpenCV\" />
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/../../../../../../usr/local/share/OpenCV/OpenCVConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\share\OpenCV\" />
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/3rdparty/cvblobs/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\src\3rdparty\cvblobs\" />
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/3rdparty/libconfig/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\src\3rdparty\libconfig\" />
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/libopentld/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\src\libopentld\" />
+      </Unit>
+      <Unit filename="/home/lomazzacamo/prototypes-vision-ai/trunk/SFU-TLD/TLD-ContextMaster/src/opentld/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\src\opentld\" />
+      </Unit>
+   </Project>
+</CodeBlocks_project_file>

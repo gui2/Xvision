@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/main.dir/main.cpp.o  -o main -rdynamic -L/usr/local/lib -lopencv_core -lopencv_imgproc -lopencv_features2d -lopencv_gpu -lopencv_calib3d -lopencv_objdetect -lopencv_video -lopencv_highgui -lopencv_ml -lopencv_legacy -lopencv_contrib -lopencv_flann -Wl,-rpath,/usr/local/lib 
