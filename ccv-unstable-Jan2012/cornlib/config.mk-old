@@ -1,4 +1,0 @@
-CC := clang
-AR := ar
-CFLAGS := -D HAVE_LIBPNG -D HAVE_GSL -D HAVE_LIBLINEAR 
-LDFLAGS := -lm -lpng -lz -lgsl -L liblinear.a -L blas.a
